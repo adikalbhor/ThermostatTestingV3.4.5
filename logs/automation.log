@@ -1,0 +1,216 @@
+2024-09-28 10:53:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 10:53:29 INFO  TestCase002_UploadSystemJsonFile:21 - *******Started TestCase002*********
+2024-09-28 10:53:29 INFO  TestCase002_UploadSystemJsonFile:23 - *******click operation on upload button********
+2024-09-28 10:53:42 INFO  TestCase002_UploadSystemJsonFile:35 - ******changed to commissing*******
+2024-09-28 10:53:42 INFO  TestCase002_UploadSystemJsonFile:41 - ******Switched to frame *****
+2024-09-28 10:53:42 ERROR TestCase002_UploadSystemJsonFile:55 - Test failed :invalid element state
+  (Session info: chrome=129.0.6668.70)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d35cb2dd46921828cdac3ca1cb959f33, clearElement {id=f.3AE2B9EA1F9DD418219DE10C590DBC42.d.01BFAFB1972C73F529D8175A38A0886A.e.2526}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.70, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65453}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65453/devtoo..., se:cdpVersion: 129.0.6668.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d35cb2dd46921828cdac3ca1cb959f33)] -> xpath: //span[normalize-space()='begin setup']]
+Session ID: d35cb2dd46921828cdac3ca1cb959f33
+2024-09-28 10:53:42 INFO  TestCase002_UploadSystemJsonFile:61 - *******Stoppped TestCase001*********
+2024-09-28 10:54:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 10:54:50 INFO  TestCase002_UploadSystemJsonFile:20 - *******Started TestCase002*********
+2024-09-28 10:54:50 INFO  TestCase002_UploadSystemJsonFile:22 - *******click operation on upload button********
+2024-09-28 10:55:04 INFO  TestCase002_UploadSystemJsonFile:34 - ******changed to commissing*******
+2024-09-28 10:55:04 ERROR TestCase002_UploadSystemJsonFile:54 - Test failed :no such frame
+  (Session info: chrome=129.0.6668.70)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9173619fcbe4273fb438436c099f7557, switchToFrame {id=1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.70, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60889}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60889/devtoo..., se:cdpVersion: 129.0.6668.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9173619fcbe4273fb438436c099f7557
+2024-09-28 10:55:04 INFO  TestCase002_UploadSystemJsonFile:60 - *******Stoppped TestCase001*********
+2024-09-28 10:58:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADIMAHEN\AppData\Local\Temp\testng-eclipse--2010119942\testng-customsuite.xml
+
+2024-09-28 10:59:25 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2024-09-28 10:59:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1fc0053e: 148 ms
+2024-09-28 10:59:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@55f3c410: 26 ms
+2024-09-28 10:59:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@3bde62ff: 16 ms
+2024-09-28 10:59:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@66ea1466: 19 ms
+2024-09-28 10:59:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@142eef62: 14 ms
+2024-09-28 10:59:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4a9cc6cb: 0 ms
+2024-09-28 10:59:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 38 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADIMAHEN\AppData\Local\Temp\testng-eclipse--772203250\testng-customsuite.xml
+
+2024-09-28 11:18:17 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2024-09-28 11:18:17 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7cbee484: 95 ms
+2024-09-28 11:18:17 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@7ef2d7a6: 19 ms
+2024-09-28 11:18:17 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@724f138e: 11 ms
+2024-09-28 11:18:17 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@759fad4: 7 ms
+2024-09-28 11:18:17 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@59fc684e: 12 ms
+2024-09-28 11:18:17 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5ae81e1: 0 ms
+2024-09-28 11:18:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 12:08:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 22:44:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 22:45:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 22:46:07 INFO  TestCase002_UploadSystemJsonFile:25 - *******Started TestCase002*********
+2024-09-28 22:46:07 INFO  TestCase002_UploadSystemJsonFile:27 - *******click operation on upload button********
+2024-09-28 22:46:20 INFO  TestCase002_UploadSystemJsonFile:38 - ******changed to commissing*******
+2024-09-28 22:46:20 INFO  TestCase002_UploadSystemJsonFile:44 - ******Switched to frame *****
+2024-09-28 22:46:20 ERROR TestCase002_UploadSystemJsonFile:58 - Test failed :invalid element state
+  (Session info: chrome=129.0.6668.70)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [30330227819ace7c05a6297df8bc7fd0, clearElement {id=f.A1C092FAAA9F0DA645023AA3122C5814.d.BA22A8F440AD0CB7735068B01864C8BB.e.2526}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.70, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54814}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54814/devtoo..., se:cdpVersion: 129.0.6668.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (30330227819ace7c05a6297df8bc7fd0)] -> xpath: //span[normalize-space()='begin setup']]
+Session ID: 30330227819ace7c05a6297df8bc7fd0
+2024-09-28 22:46:20 INFO  TestCase002_UploadSystemJsonFile:64 - *******Stoppped TestCase001*********
+2024-09-28 22:50:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 22:50:31 INFO  TestCase002_UploadSystemJsonFile:25 - *******Started TestCase002*********
+2024-09-28 22:50:31 INFO  TestCase002_UploadSystemJsonFile:27 - *******click operation on upload button********
+2024-09-28 22:50:44 INFO  TestCase002_UploadSystemJsonFile:38 - ******changed to commissing*******
+2024-09-28 22:50:44 INFO  TestCase002_UploadSystemJsonFile:44 - ******Switched to frame *****
+2024-09-28 22:50:44 INFO  TestCase002_UploadSystemJsonFile:64 - *******Stoppped TestCase001*********
+2024-09-28 22:54:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 22:54:17 INFO  TestCase002_UploadSystemJsonFile:23 - *******Started TestCase002*********
+2024-09-28 22:54:17 INFO  TestCase002_UploadSystemJsonFile:25 - *******click operation on upload button********
+2024-09-28 22:54:30 INFO  TestCase002_UploadSystemJsonFile:36 - ******changed to commissing*******
+2024-09-28 22:54:30 INFO  TestCase002_UploadSystemJsonFile:42 - ******Switched to frame *****
+2024-09-28 22:54:41 ERROR TestCase002_UploadSystemJsonFile:57 - Test failed :no such element: Unable to locate element: {"method":"xpath","selector":"(//span[@class='Text__root Label__root Label__root'])[1]"}
+  (Session info: chrome=129.0.6668.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5c9a6a89db1d2a3b191085ec5ac417d2, findElement {using=xpath, value=(//span[@class='Text__root Label__root Label__root'])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.70, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50308}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50308/devtoo..., se:cdpVersion: 129.0.6668.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c9a6a89db1d2a3b191085ec5ac417d2
+2024-09-28 22:54:41 INFO  TestCase002_UploadSystemJsonFile:63 - *******Stoppped TestCase001*********
+2024-09-28 22:57:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 23:00:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 23:00:09 INFO  TestCase002_UploadSystemJsonFile:23 - *******Started TestCase002*********
+2024-09-28 23:00:09 INFO  TestCase002_UploadSystemJsonFile:25 - *******click operation on upload button********
+2024-09-28 23:00:22 INFO  TestCase002_UploadSystemJsonFile:36 - ******changed to commissing*******
+2024-09-28 23:00:22 INFO  TestCase002_UploadSystemJsonFile:42 - ******Switched to frame *****
+2024-09-28 23:00:22 INFO  TestCase002_UploadSystemJsonFile:52 - *****TestCase001 Passed...*
+2024-09-28 23:00:22 INFO  TestCase002_UploadSystemJsonFile:63 - *******Stoppped TestCase001*********
+2024-09-28 23:10:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 23:10:14 INFO  TestCase002_UploadSystemJsonFile:24 - *******Started TestCase002*********
+2024-09-28 23:10:14 INFO  TestCase002_UploadSystemJsonFile:26 - *******click operation on upload button********
+2024-09-28 23:10:27 INFO  TestCase002_UploadSystemJsonFile:37 - ******changed to commissing*******
+2024-09-28 23:10:27 INFO  TestCase002_UploadSystemJsonFile:43 - ******Switched to frame *****
+2024-09-28 23:10:28 INFO  TestCase002_UploadSystemJsonFile:56 - *****TestCase001 Passed...*
+2024-09-28 23:10:28 INFO  TestCase002_UploadSystemJsonFile:67 - *******Stoppped TestCase001*********
+2024-09-28 23:11:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 23:11:21 INFO  TestCase002_UploadSystemJsonFile:24 - *******Started TestCase002*********
+2024-09-28 23:11:21 INFO  TestCase002_UploadSystemJsonFile:26 - *******click operation on upload button********
+2024-09-28 23:11:33 INFO  TestCase002_UploadSystemJsonFile:37 - ******changed to commissing*******
+2024-09-28 23:11:33 INFO  TestCase002_UploadSystemJsonFile:43 - ******Switched to frame *****
+2024-09-28 23:11:34 INFO  TestCase002_UploadSystemJsonFile:56 - *****TestCase001 Passed...*
+2024-09-28 23:11:34 INFO  TestCase002_UploadSystemJsonFile:67 - *******Stoppped TestCase001*********
+2024-09-28 23:12:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Windows\System32\config\systemprofile\eclipse-workspace\ThermostatTestingV3.4.5\master.xml
+
+2024-09-28 23:12:19 INFO  TestCase002_UploadSystemJsonFile:24 - *******Started TestCase002*********
+2024-09-28 23:12:19 INFO  TestCase002_UploadSystemJsonFile:26 - *******click operation on upload button********
+2024-09-28 23:12:32 INFO  TestCase002_UploadSystemJsonFile:37 - ******changed to commissing*******
+2024-09-28 23:12:32 INFO  TestCase002_UploadSystemJsonFile:43 - ******Switched to frame *****
+2024-09-28 23:12:43 ERROR TestCase002_UploadSystemJsonFile:61 - Test failed :no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='/setup-full/equipment-setup/outdoor']//div[@class='LineItem__root']"}
+  (Session info: chrome=129.0.6668.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [18aa5bdd6a6cc67d5c369e516a5cdd93, findElement {value=//a[@href='/setup-full/equipment-setup/outdoor']//div[@class='LineItem__root'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.70, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59367}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59367/devtoo..., se:cdpVersion: 129.0.6668.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 18aa5bdd6a6cc67d5c369e516a5cdd93
+2024-09-28 23:12:43 INFO  TestCase002_UploadSystemJsonFile:67 - *******Stoppped TestCase001*********
